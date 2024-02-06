@@ -1,0 +1,37 @@
+{
+    "discoveries": [],
+    "elements": [
+      {
+        "text": "Water",
+        "emoji": "💧"
+      },
+      {
+        "text": "Fire",
+        "emoji": "🔥"
+      },
+      {
+        "text": "Wind",
+        "emoji": "🌬️"
+      },
+      {
+        "text": "Earth",
+        "emoji": "🌍"
+      },
+      {
+        "text": "Steam",
+        "emoji": "💨"
+      },
+      {
+        "text": "Mud",
+        "emoji": "💩"
+      },
+      {
+        "text": "Clay",
+        "emoji": "🏺"
+      },
+      {
+        "text": "Pottery",
+        "emoji": "🏺"
+      }
+    ]
+  }

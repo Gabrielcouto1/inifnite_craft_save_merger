@@ -1,0 +1,57 @@
+{
+    "discoveries": [],
+    "elements": [
+      {
+        "text": "Water",
+        "emoji": "💧"
+      },
+      {
+        "text": "Fire",
+        "emoji": "🔥"
+      },
+      {
+        "text": "Wind",
+        "emoji": "🌬️"
+      },
+      {
+        "text": "Earth",
+        "emoji": "🌍"
+      },
+      {
+        "text": "Lava",
+        "emoji": "🌋"
+      },
+      {
+        "text": "Volcano",
+        "emoji": "🌋"
+      },
+      {
+        "text": "Stone",
+        "emoji": "🪨"
+      },
+      {
+        "text": "Sand",
+        "emoji": "🏖️"
+      },
+      {
+        "text": "Plant",
+        "emoji": "🌱"
+      },
+      {
+        "text": "Fossil",
+        "emoji": "🦴"
+      },
+      {
+        "text": "Tree",
+        "emoji": "🌳"
+      },
+      {
+        "text": "Desert",
+        "emoji": "🏜️"
+      },
+      {
+        "text": "Oil",
+        "emoji": "🛢️"
+      }
+    ]
+  }
