@@ -10,22 +10,6 @@ a = {
       "emoji": "\ud83d\udd25"
     },
     {
-      "text": "Fish",
-      "emoji": "\ud83d\udc1f"
-    },
-    {
-      "text": "Fishbowl",
-      "emoji": "\ud83d\udc20"
-    },
-    {
-      "text": "Lake",
-      "emoji": "\ud83c\udf0a"
-    },
-    {
-      "text": "Ocean",
-      "emoji": "\ud83c\udf0a"
-    },
-    {
       "text": "Water",
       "emoji": "\ud83d\udca7"
     },

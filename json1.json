@@ -1,7 +1,5 @@
 {
-  "discoveries": [
-    "Herd of Clones"
-  ],
+  "discoveries": [],
   "elements": [
     {
       "text": "Water",
@@ -20,20 +18,8 @@
       "emoji": "🌍"
     },
     {
-      "text": "Lake",
-      "emoji": "🌊"
-    },
-    {
-      "text": "Ocean",
-      "emoji": "🌊"
-    },
-    {
-      "text": "Fish",
-      "emoji": "🐟"
-    },
-    {
-      "text": "Fishbowl",
-      "emoji": "🐠"
+      "text": "Yellowstone",
+      "emoji": "\ud83c\udf0b"
     }
   ]
 }
